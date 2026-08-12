@@ -1,6 +1,11 @@
 # SnowRacer
 
 Project Powder server emulator.
+Also .BlueCat archive unpacker/repacker
+
+
+# Client Fixes
+* Removed the 7 character password limit (why the hell did the devs do this lol)
 
 
 
@@ -13,3 +18,5 @@ Project Powder server emulator.
 <img width="1014" height="790" alt="image" src="https://github.com/user-attachments/assets/9dba93a0-dc4d-477f-94bb-63553bac7b54" />
 <img width="1023" height="769" alt="image" src="https://github.com/user-attachments/assets/e508b2b3-27a7-4584-a8b9-609cce03ed68" />
 <img width="1019" height="788" alt="image" src="https://github.com/user-attachments/assets/4ef9727e-c957-412d-9acb-e2b6910516c6" />
+<img width="318" height="208" alt="image" src="https://github.com/user-attachments/assets/28f0bbb0-fd60-4398-832a-1efd97b6d080" />
+<img width="470" height="327" alt="image" src="https://github.com/user-attachments/assets/cf5fa31c-7183-46bf-9415-a176281bf138" />
