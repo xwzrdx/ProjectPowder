@@ -1,7 +1,6 @@
 # SnowRacer
 
-Project Powder server emulator.
-Also .BlueCat archive unpacker/repacker
+Project Powder server emulator & ``.BlueCat`` archive unpacker/repacker
 
 
 # Client Fixes
