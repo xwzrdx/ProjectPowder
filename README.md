@@ -24,3 +24,4 @@ Also .BlueCat archive unpacker/repacker
 <img width="2410" height="915" alt="image" src="https://github.com/user-attachments/assets/d00694a9-4b7d-4edf-955f-76ab1299ddac" />
 <img width="521" height="220" alt="image" src="https://github.com/user-attachments/assets/95f1d7a5-3a02-4adc-a87d-5a0985290b60" />
 <img width="393" height="184" alt="image" src="https://github.com/user-attachments/assets/7a90cf50-d8ba-4773-96ce-e888ca74305e" />
+<img width="1041" height="784" alt="image" src="https://github.com/user-attachments/assets/5bf057a2-13df-4cd8-be21-cae79ba9e2f2" />
